@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MADProject</string>
+
+    <string name="mapTypeNone">None</string>
+    <string name="mapTypeNormal">Normal</string>
+    <string name="mapTypeTerrain">Terrain</string>
+    <string name="mapTypeSatellite">Satellite</string>
+    <string name="mapTypeHybrid">Hybrid</string>
+
+</resources>
